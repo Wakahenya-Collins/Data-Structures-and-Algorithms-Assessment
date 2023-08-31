@@ -15,8 +15,9 @@ This project contains implementations of three functions for various data struct
 1. Clone this repository:
 ```bash
    git clone https://github.com/yourusername/Data-Structures-and-Algorithms-Assessment.git
-Navigate to the project directory:
 ```
+Navigate to the project directory:
+
 ```bash
 Copy code
 cd Data-Structures-and-Algorithms-Assessment
